@@ -29,6 +29,10 @@
       "url": "https://laozhu.me"
     }
   ],
+  "scripts": {
+    "update": "git submodule update --recursive",
+    "update:init": "yarn run update --init"
+  },
   "workspaces": [
     "cornerstone/*",
     "dcmjs/*",
