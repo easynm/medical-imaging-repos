@@ -1,0 +1,138 @@
+[submodule "cornerstone/cornerstone-core"]
+	path = cornerstone/cornerstone-core
+	url = https://github.com/cornerstonejs/cornerstone.git
+[submodule "cornerstone/cornerstone-math"]
+	path = cornerstone/cornerstone-math
+	url = https://github.com/cornerstonejs/cornerstoneMath.git
+[submodule "cornerstone/cornerstone-nifti-image-loader"]
+	path = cornerstone/cornerstone-nifti-image-loader
+	url = https://github.com/cornerstonejs/cornerstone-nifti-image-loader.git
+[submodule "cornerstone/react-cornerstone-viewport"]
+	path = cornerstone/react-cornerstone-viewport
+	url = https://github.com/cornerstonejs/react-cornerstone-viewport.git
+[submodule "cornerstone/cornerstone-tools"]
+	path = cornerstone/cornerstone-tools
+	url = https://github.com/cornerstonejs/cornerstoneTools.git
+[submodule "cornerstone/cornerstone-wado-image-loader"]
+	path = cornerstone/cornerstone-wado-image-loader
+	url = https://github.com/cornerstonejs/cornerstoneWADOImageLoader.git
+[submodule "cornerstone/cornerstone-web-image-loader"]
+	path = cornerstone/cornerstone-web-image-loader
+	url = https://github.com/cornerstonejs/cornerstoneWebImageLoader.git
+[submodule "cornerstone/dicom-parser"]
+	path = cornerstone/dicom-parser
+	url = https://github.com/cornerstonejs/dicomParser.git
+[submodule "cornerstone/cornerstone-tool-image-statistics"]
+	path = cornerstone/cornerstone-tool-image-statistics
+	url = https://github.com/QSolutionsLLC/cornerstone-tool-image-statistics.git
+[submodule "cornerstone/cornerstone-vtk-mpr"]
+	path = cornerstone/cornerstone-vtk-mpr
+	url = https://github.com/QSolutionsLLC/cornerstone-vtk-mpr.git
+[submodule "dcmjs/dcmjs"]
+	path = dcmjs/dcmjs
+	url = https://github.com/dcmjs-org/dcmjs.git
+[submodule "dcmjs/dicomweb-server"]
+	path = dcmjs/dicomweb-server
+	url = https://github.com/dcmjs-org/dicomweb-server.git
+[submodule "dcmjs/dicomweb-client"]
+	path = dcmjs/dicomweb-client
+	url = https://github.com/dcmjs-org/dicomweb-client.git
+[submodule "dwv/dwv"]
+	path = dwv/dwv
+	url = https://github.com/ivmartel/dwv
+[submodule "dwv/dwv-react"]
+	path = dwv/dwv-react
+	url = https://github.com/ivmartel/dwv-react.git
+[submodule "rii-mango/daikon"]
+	path = rii-mango/daikon
+	url = https://github.com/rii-mango/Daikon.git
+[submodule "rii-mango/papaya"]
+	path = rii-mango/papaya
+	url = https://github.com/rii-mango/Papaya.git
+[submodule "google/dicomproxy"]
+	path = google/dicomproxy
+	url = https://github.com/google/dicomproxy.git
+[submodule "google/dicomweb-wsi-viewer"]
+	path = google/dicomweb-wsi-viewer
+	url = https://github.com/GoogleCloudPlatform/dicomweb-wsi-viewer.git
+[submodule "google/healthcare-api-dicom-viewer"]
+	path = google/healthcare-api-dicom-viewer
+	url = https://github.com/GoogleCloudPlatform/healthcare-api-dicom-viewer.git
+[submodule "google/healthcare-dicom-dicomweb-adapter"]
+	path = google/healthcare-dicom-dicomweb-adapter
+	url = https://github.com/GoogleCloudPlatform/healthcare-dicom-dicomweb-adapter.git
+[submodule "google/neuroglancer"]
+	path = google/neuroglancer
+	url = https://github.com/google/neuroglancer.git
+[submodule "ohif/ohif-step"]
+	path = ohif/ohif-step
+	url = https://github.com/OHIF/ohif-step.git
+[submodule "ohif/ohif-viewers"]
+	path = ohif/ohif-viewers
+	url = https://github.com/OHIF/Viewers.git
+[submodule "ohif/prostatecancer.ai"]
+	path = ohif/prostatecancer.ai
+	url = https://github.com/Tesseract-MI/prostatecancer.ai.git
+[submodule "kitware/craco-itk"]
+	path = kitware/craco-itk
+	url = https://github.com/InsightSoftwareConsortium/craco-itk.git
+[submodule "kitware/create-itk-app"]
+	path = kitware/create-itk-app
+	url = https://github.com/InsightSoftwareConsortium/create-itk-app.git
+[submodule "kitware/dicom-anonymizer"]
+	path = kitware/dicom-anonymizer
+	url = https://github.com/KitwareMedical/dicom-anonymizer.git
+[submodule "kitware/dive"]
+	path = kitware/dive
+	url = https://github.com/Kitware/dive.git
+[submodule "kitware/itk-vtk-viewer"]
+	path = kitware/itk-vtk-viewer
+	url = https://github.com/Kitware/itk-vtk-viewer.git
+[submodule "kitware/paraview-glance"]
+	path = kitware/paraview-glance
+	url = https://github.com/Kitware/paraview-glance.git
+[submodule "kitware/paraview-lite"]
+	path = kitware/paraview-lite
+	url = https://github.com/Kitware/paraview-lite.git
+[submodule "kitware/paraview-medical"]
+	path = kitware/paraview-medical
+	url = https://github.com/KitwareMedical/paraview-medical.git
+[submodule "kitware/react-vtk-js"]
+	path = kitware/react-vtk-js
+	url = https://github.com/Kitware/react-vtk-js.git
+[submodule "kitware/react-vtkjs-viewport"]
+	path = kitware/react-vtkjs-viewport
+	url = https://github.com/OHIF/react-vtkjs-viewport.git
+[submodule "kitware/vtk-js"]
+	path = kitware/vtk-js
+	url = https://github.com/Kitware/vtk-js.git
+[submodule "cornerstone/codecs"]
+	path = cornerstone/codecs
+	url = https://github.com/cornerstonejs/codecs.git
+[submodule "dwv/dwv-vue"]
+	path = dwv/dwv-vue
+	url = https://github.com/ivmartel/dwv-vue.git
+[submodule "ohif/react-vtkjs-viewport"]
+	path = ohif/react-vtkjs-viewport
+	url = https://github.com/OHIF/react-vtkjs-viewport.git
+[submodule "pyvista/pyvista-examples"]
+	path = pyvista/pyvista-examples
+	url = https://github.com/pyvista/pyvista-examples.git
+[submodule "pyvista/vtkjs-viewer"]
+	path = pyvista/vtkjs-viewer
+	url = https://github.com/pyvista/vtkjs-viewer.git
+[submodule "kitware/react-vtkjs-viewer"]
+	path = kitware/react-vtkjs-viewer
+	url = https://github.com/knopkem/react-vtkjs-viewer.git
+[submodule "kitware/vue-vtkjs-viewport"]
+	path = kitware/vue-vtkjs-viewport
+	url = https://github.com/mix3d/vue-vtkjs-viewport.git
+[submodule "kitware/web-project-templates"]
+	path = kitware/web-project-templates
+	url = https://github.com/Kitware/web-project-templates.git
+[submodule "kitware/vtk.js-examples"]
+	path = kitware/vtk.js-examples
+	url = https://github.com/KitwareMedical/vtk.js-examples.git
+[submodule "pyvista/pyvista"]
+	path = pyvista/pyvista
+	url = https://github.com/pyvista/pyvista.git

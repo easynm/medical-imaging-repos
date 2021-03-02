@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schema.easynm.cn/lerna.json",
+  "version": "1.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "cornerstone/*",
+    "dcmjs/*",
+    "dwv/*",
+    "google/*",
+    "kitware/*",
+    "ohif/*",
+    "pyvista/*",
+    "rii-mango/*"
+  ],
+  "command": {
+    "version": {
+      "allowBranch": "master",
+      "message": "chore(release): publish %s"
+    },
+    "publish": {
+      "message": "chore(release): publish",
+      "ignoreChanges": ["**/__tests__/**", "**/*.test.{js,mjs,ts,jsx,tsx,vue}", "**/*.{md,mdx}"]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "medical-imaging-repos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Forked medical imaging repos for @easynm projects.",
+  "keywords": [
+    "easynm",
+    "medical-imaging"
+  ],
+  "homepage": "https://github.com/easynm/medical-imaging-repos",
+  "bugs": {
+    "url": "https://github.com/easynm/medical-imaging-repos/issues",
+    "email": "hello@easynm.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easynm/medical-imaging-repos"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Easynm Inc.",
+    "email": "hello@easynm.cn",
+    "url": "https://easynm.cn"
+  },
+  "contributors": [
+    {
+      "name": "Ritchie Zhu",
+      "email": "laozhu.me@gmail.com",
+      "url": "https://laozhu.me"
+    }
+  ],
+  "workspaces": [
+    "cornerstone/*",
+    "dcmjs/*",
+    "dwv/*",
+    "google/*",
+    "kitware/*",
+    "ohif/*",
+    "pyvista/*",
+    "rii-mango/*"
+  ]
+}
